@@ -10,7 +10,7 @@ Este proyecto realiza un análisis de los factores que influyen en los ingresos 
 - `análisis_exploratorio.ipynb`: Archivo de Google Colab con el análisis exploratorio y desarrollo del modelo.
 - `app.py`: Aplicación de Streamlit que permite predecir los ingresos de una organización en función de varios factores.
 - `modelo_ingresos_organizaciones.pkl`: Modelo guardado que se usa en la aplicación de Streamlit.
-- `video ilustrativo del proyecto: https://we.tl/t-ob2Qlfi0Do
+- `video ilustrativo del proyecto`: https://we.tl/t-ob2Qlfi0Do
 
 ## Cómo ejecutar la aplicación de Streamlit
 
